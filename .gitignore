@@ -1,3 +1,5 @@
+.cxx
+
 # Artifacts of compiling.
 /samples/*/*/bin
 /samples/*/*/gen
